@@ -1,0 +1,4 @@
+# Additional cuatom blocking for Adaway
+
+# [com.nhn.band]
+127.0.0.1 ad-api.band.us
